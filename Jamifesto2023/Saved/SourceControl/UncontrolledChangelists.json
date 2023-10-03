@@ -12,7 +12,14 @@
 				"C:/Users/cex/OneDrive - Norwich University of the Arts/Documents/GitHub/Jamifesto2023/Jamifesto2023/Content/Jamifesto2023/Audio/Footstep1.uasset",
 				"C:/Users/cex/OneDrive - Norwich University of the Arts/Documents/GitHub/Jamifesto2023/Jamifesto2023/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER.uasset",
 				"C:/Users/cex/OneDrive - Norwich University of the Arts/Documents/GitHub/Jamifesto2023/Jamifesto2023/Content/Jamifesto2023/Materials/M_SolidRed.uasset",
-				"C:/Users/cex/OneDrive - Norwich University of the Arts/Documents/GitHub/Jamifesto2023/Jamifesto2023/Content/Jamifesto2023/Blueprints/BP_Vroomba1.uasset"
+				"C:/Users/cex/OneDrive - Norwich University of the Arts/Documents/GitHub/Jamifesto2023/Jamifesto2023/Content/Jamifesto2023/Blueprints/BP_Vroomba1.uasset",
+				"C:/Users/cex/OneDrive - Norwich University of the Arts/Documents/GitHub/Jamifesto2023/Jamifesto2023/Content/Jamifesto2023/Blueprints/E_TurnDirection.uasset",
+				"C:/Users/cex/OneDrive - Norwich University of the Arts/Documents/GitHub/Jamifesto2023/Jamifesto2023/Content/Jamifesto2023/Blueprints/Inputs/IMC_Default.uasset",
+				"C:/Users/cex/OneDrive - Norwich University of the Arts/Documents/GitHub/Jamifesto2023/Jamifesto2023/Content/ThirdPerson/Input/Actions/IA_Move.uasset",
+				"C:/Users/cex/OneDrive - Norwich University of the Arts/Documents/GitHub/Jamifesto2023/Jamifesto2023/Content/Jamifesto2023/Blueprints/Inputs/Actions/IA_Accelerate.uasset",
+				"C:/Users/cex/OneDrive - Norwich University of the Arts/Documents/GitHub/Jamifesto2023/Jamifesto2023/Content/Jamifesto2023/Blueprints/Inputs/Actions/IA_TurnRight.uasset",
+				"C:/Users/cex/OneDrive - Norwich University of the Arts/Documents/GitHub/Jamifesto2023/Jamifesto2023/Content/Jamifesto2023/Materials/M_SolidGreen.uasset",
+				"C:/Users/cex/OneDrive - Norwich University of the Arts/Documents/GitHub/Jamifesto2023/Jamifesto2023/Content/Jamifesto2023/Blueprints/Inputs/Actions/IA_Move.uasset"
 			]
 		}
 	]
